@@ -30,8 +30,8 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/anonymous node/sails user/fracherweb.git"
+    "url": "git://github.com/awce/fracherweb.git"
   },
-  "author": "anonymous node/sails user",
-  "license": ""
+  "author": "sails/awce",
+  "license": "MIT"
 }
